@@ -2,6 +2,7 @@ baseURL = 'https://jeffwillette.github.io/'
 languageCode = 'en-us'
 title = 'Jeffrey Willette'
 theme = "LoveIt"
+publishDir = "docs"
 
 [params]
   # LoveIt theme version
