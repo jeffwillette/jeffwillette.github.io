@@ -12,10 +12,10 @@ include:
 ---
 # Conference Publications
 
-### [c4] MPViT: Multi-Path Vision Transformer for Dense Prediction
+### [c4] Exploring the Role of Mean Teachers in Self-Supervised Masked Auto-Encoders
 * :(fas fa-edit fa-fw): Youngwan Lee*, Jeffrey Willette*, Jonghee Kim, Juho Lee, Sung Ju Hwang (*:equal contribution)
 * :(fas fa-link fa-fw): 
-    [[ICLR 2023]()] 
+    [[ICLR 2023](https://iclr.cc/Conferences/2023)] 
     [[Open Review](https://openreview.net/forum?id=7sn6Vxp92xV)]
     [[arxiv](https://arxiv.org/abs/2112.11010)] 
     [[bibtex](/bibtex/exploring-the-role-of-mean-teachers-in-ssl-mae.html)] 
@@ -46,9 +46,10 @@ include:
 ---
 # Preprints
 
-### Universal Mini-batch Consistency for Set Encoding Functions
-* :(fas fa-edit fa-fw): Jeffrey Willette, Bruno Andreis, Juho Lee, Sung Ju Hwang
-* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2208.12401)] [[bibtex](/bibtex/universal-minibatch-consistency-for-set-encoding-functions.html)]
+### Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
+* :(fas fa-edit fa-fw): Jeffrey Willette*, Seanie Lee*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (*:
+  equal contribution)
+* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2208.12401)] [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
 
 ### Prior Augmented Data: Targeted Entropy Regularization for Improved Calibration
 * :(fas fa-edit fa-fw): Jeffrey Willette, Juho Lee, Sung Ju Hwang
