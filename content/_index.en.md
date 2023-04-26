@@ -12,6 +12,12 @@ include:
 ---
 # Conference Publications
 
+### [c5] Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
+* :(fas fa-edit fa-fw): Jeffrey Willette*, Seanie Lee*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (*:
+  equal contribution)
+* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2208.12401)] [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
+
+
 ### [c4] Exploring the Role of Mean Teachers in Self-Supervised Masked Auto-Encoders
 * :(fas fa-edit fa-fw): Youngwan Lee*, Jeffrey Willette*, Jonghee Kim, Juho Lee, Sung Ju Hwang (*:equal contribution)
 * :(fas fa-link fa-fw): 
@@ -45,11 +51,6 @@ include:
 
 ---
 # Preprints
-
-### Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
-* :(fas fa-edit fa-fw): Jeffrey Willette*, Seanie Lee*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (*:
-  equal contribution)
-* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2208.12401)] [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
 
 ### Prior Augmented Data: Targeted Entropy Regularization for Improved Calibration
 * :(fas fa-edit fa-fw): Jeffrey Willette, Juho Lee, Sung Ju Hwang
