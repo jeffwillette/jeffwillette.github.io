@@ -15,7 +15,11 @@ include:
 ### [c5] Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
 * :(fas fa-edit fa-fw): Jeffrey Willette*, Seanie Lee*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (*:
   equal contribution)
-* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2208.12401)] [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
+* :(fas fa-link fa-fw): 
+    [[ICML 2023](https://icml.cc/Conferences/2023)]
+    [[Open Review](https://openreview.net/forum?id=bBk09FBRox)]
+    [[arxiv](https://arxiv.org/abs/2208.12401)]
+    [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
 
 
 ### [c4] Exploring the Role of Mean Teachers in Self-Supervised Masked Auto-Encoders
