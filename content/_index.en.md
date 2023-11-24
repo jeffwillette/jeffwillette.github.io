@@ -12,6 +12,12 @@ include:
 ---
 # Conference Publications
 
+### [w1] Visulizing the Loss Landscape of Self-Supervised Vision Transformers
+* :(fas fa-edit fa-fw): Youngwan Lee, Jeffrey Willette, Jonghee Kim, Sung Ju Hwang
+* :(fas fa-link fa-fw): 
+    [[NeurIPS 2023 - SSL Theory and Practice (workshop)](https://sslneurips23.github.io/index.html)]
+    [[Presentation](https://nips.cc/virtual/2023/80800)]
+
 ### [c5] Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation
 * :(fas fa-edit fa-fw): Jeffrey Willette*, Seanie Lee*, Bruno Andreis, Kenji Kawaguchi, Juho Lee, Sung Ju Hwang (*:
   equal contribution)
