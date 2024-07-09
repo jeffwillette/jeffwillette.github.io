@@ -4,13 +4,23 @@ I am currently a PhD student at KAIST, studying at the [Machine Learning and Art
 Lab](https://www.mlai-kaist.com/) under Professor [Sung Ju Hwang](http://www.sungjuhwang.com/). My research interests
 include:
 
+* Large Language Models
+* Efficient Transformers
 * Self-Supervised Learning
-* Set Encoding
+* Permutation Invariant Neural Networks
 * Computer Vision
 * Bayesian Deep Learning
 
 ---
 # Conference Publications
+
+### [c6] SEA: Sparse Linear Attention with Estimated Attention Mask
+* :(fas fa-edit fa-fw): Heejun Lee, Jina Kim, Jeffrey Willette, Sung Ju Hwang (*: equal contribution)
+* :(fas fa-link fa-fw): 
+    [[ICLR 2024](https://iclr.cc/Conferences/2024)]
+    [[Open Review](https://openreview.net/forum?id=JbcwfmYrob)]
+    [[arxiv](https://arxiv.org/html/2310.01777v2)]
+    [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
 
 ### [w1] Visulizing the Loss Landscape of Self-Supervised Vision Transformers
 * :(fas fa-edit fa-fw): Youngwan Lee, Jeffrey Willette, Jonghee Kim, Sung Ju Hwang
@@ -26,7 +36,6 @@ include:
     [[Open Review](https://openreview.net/forum?id=bBk09FBRox)]
     [[arxiv](https://arxiv.org/abs/2208.12401)]
     [[bibtex](/bibtex/scalable-set-encoding-with-universal-minibatch-consistency.html)]
-
 
 ### [c4] Exploring the Role of Mean Teachers in Self-Supervised Masked Auto-Encoders
 * :(fas fa-edit fa-fw): Youngwan Lee*, Jeffrey Willette*, Jonghee Kim, Juho Lee, Sung Ju Hwang (*:equal contribution)
@@ -58,9 +67,14 @@ include:
     [[arxiv](https://arxiv.org/abs/2103.01615)] 
     [[bibtex](/bibtex/minibatch-consistent-slot-set-encoder-for-scalable-set-encoding.html)]
 
-
 ---
+
 # Preprints
+
+### Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache
+* :(fas fa-edit fa-fw): Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang
+* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2406.17808)]
+  [[bibtex](/bibtex/training-free-exponential-extension-of-sliding-window-context-with-cascading-kv-cache.html)]
 
 ### Prior Augmented Data: Targeted Entropy Regularization for Improved Calibration
 * :(fas fa-edit fa-fw): Jeffrey Willette, Juho Lee, Sung Ju Hwang
