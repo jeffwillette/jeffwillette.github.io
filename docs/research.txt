@@ -1,0 +1,12 @@
+To Whom It May Concern:
+
+During my time as a researcher at the Machine Learning and Artificial Intelligence Lab at KAIST, I have published 7 papers at top-tier AI conferences including NeurIPS, ICML, ICLR, and CVPR. The topics of my publications include a variety of topics including generative models (LLM’s), computer vision, permutation invariant neural networks, meta learning, and uncertainty calibration. Additionally, I am also interested in pursuing further research related to vision based generative models such as diffusion transformers, video diffusion, and multimodal generative models. 
+
+One of my works which might be of particular interest to Netflix concerns my paper titled “Scalable Set Encoding with Universal Mini-Batch Consistency and Unbiased Full Set Gradient Approximation.” In this work, we proposed a new permutation invariant neural network which could encode sets of arbitrary size with a fixed training memory overhead. Additionally, we derived a gradient correction which makes the approximated subset gradient an unbiased approximation to the gradient of the full set which was input to the model. I think this work, and permutation invariant neural networks in general would be of interest to Netflix because a recommendation system which operates on a set of prior observations is at least partially invariant to permutations of the prior observations. For example, say a customer shows interest in genre A and B based on prior observations, but it happens to be the case that the timeline of their selections shows that all their viewing of genre A was before genre B. In this case, a causal model may decide on recommending genre B or a new genre C (C may be related to genre B) based correlations in the data which indicate that the current preference is for genre B. However, there is no guarantee that the permutation in which genre A and B was viewed has anything to do with the underlying preferences of the user. Therefore, the correct recommendation could possibly be anything from genre A, B, or D (D may be related to the sum of A + B). Therefore, large scale encoding of permutation invariant sets could be extremely important for recommender systems.
+
+I look forward to putting the skills and ideas I have developed during my time as a PhD student to practical use to solve challenging problems at Netflix.  
+
+
+Sincerely,
+Jeff Willette
+
