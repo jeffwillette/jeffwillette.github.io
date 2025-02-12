@@ -14,6 +14,13 @@ include:
 ---
 # Conference Publications
 
+### [c7] Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache
+* :(fas fa-edit fa-fw): Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang
+* :(fas fa-link fa-fw): 
+    [[ICLR 2025](https://iclr.cc/Conferences/2025)]
+    [[arxiv](https://arxiv.org/abs/2406.17808)]
+    [[bibtex](/bibtex/training-free-exponential-extension-of-sliding-window-context-with-cascading-kv-cache.html)]
+
 ### [c6] SEA: Sparse Linear Attention with Estimated Attention Mask
 * :(fas fa-edit fa-fw): Heejun Lee, Jina Kim, Jeffrey Willette, Sung Ju Hwang (*: equal contribution)
 * :(fas fa-link fa-fw): 
@@ -70,11 +77,6 @@ include:
 ---
 
 # Preprints
-
-### Training-Free Exponential Extension of Sliding Window Context with Cascading KV Cache
-* :(fas fa-edit fa-fw): Jeffrey Willette, Heejun Lee, Youngwan Lee, Myeongjae Jeon, Sung Ju Hwang
-* :(fas fa-link fa-fw): [[arxiv](https://arxiv.org/abs/2406.17808)]
-  [[bibtex](/bibtex/training-free-exponential-extension-of-sliding-window-context-with-cascading-kv-cache.html)]
 
 ### Prior Augmented Data: Targeted Entropy Regularization for Improved Calibration
 * :(fas fa-edit fa-fw): Jeffrey Willette, Juho Lee, Sung Ju Hwang
